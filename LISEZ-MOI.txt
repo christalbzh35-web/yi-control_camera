@@ -1,0 +1,7 @@
+YI CONTROL - mode d'emploi
+1. Android Studio > File > Open > choisir le dossier YiControl. Accepter la synchronisation Gradle (il télécharge les dépendances).
+2. Brancher le téléphone en USB (options développeur + débogage USB activés) puis bouton Run (triangle vert).
+   Ou : Build > Build APK(s), puis copier app-debug.apk sur le téléphone.
+3. Allumer la caméra, activer son WiFi, connecter le téléphone à son réseau (garder la connexion malgré "pas d'internet").
+4. Ouvrir Yi Control > Connecter.
+Fonctionne avec la Yi Action et la Yi 4K : même adresse (192.168.42.1), on se connecte au WiFi de la caméra voulue.
